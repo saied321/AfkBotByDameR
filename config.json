@@ -1,8 +1,7 @@
 {
 	"ip":"FriendseraiJT4.aternos.me",
 	"port": 11402,
-	"name": "AfkBot
-",
+	"name": "AfkBot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
